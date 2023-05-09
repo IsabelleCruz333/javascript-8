@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(to left,aquamarine, rgb(238, 185, 238));
+}
+
+#main {
+    width: 500px;
+    height: 200px;
+    background-color: aquamarine;
+    text-align: center;
+    padding-top: 10%;
+    margin-left: 30%
+}
+
+h1 {
+    color: rgb(236, 150, 229);
+    text-align: center;
+}
+
+#ligar {
+    width: 100px;
+    height: 50px;
+    background-color: violet;
+    margin-left: 40%;
+    display: inline-block
+}
+
+#desligar {
+    width: 100px;
+    height: 50px;
+    background-color: violet;
+    display: inline-block
+}
